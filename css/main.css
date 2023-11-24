@@ -553,7 +553,7 @@ dl,
 form,
 .video-container,
 .ss-custom-select {
-  margin-bottom: 3.2rem;
+  margin-bottom: 0.8rem;
 }
 
 
@@ -2452,7 +2452,7 @@ html.no-csstransitions .hero-content {
 }
 
 .s-about__section--profile {
-  padding-top: 28rem;
+  padding-top: 24rem;
   padding-bottom: 4rem;
   min-height: 108rem;
   position: relative;
@@ -2608,7 +2608,7 @@ html.no-csstransitions .hero-content {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-  padding-top: 24rem;
+  padding-top: 18rem;
   padding-bottom: 20rem;
   background-color: #1d1b37;
   position: relative;
@@ -2819,7 +2819,7 @@ html.no-csstransitions .hero-content {
  *
  * ------------------------------------------------------------------- */
 .s-portfolio {
-  padding-top: 24rem;
+  padding-top: 12rem;
   padding-bottom: 0;
   background-color: #ffffff;
   position: relative;
